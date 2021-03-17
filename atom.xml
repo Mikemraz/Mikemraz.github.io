@@ -6,7 +6,7 @@
   <link href="https://mikemraz.github.io/atom.xml" rel="self"/>
   
   <link href="https://mikemraz.github.io/"/>
-  <updated>2021-03-17T04:29:05.523Z</updated>
+  <updated>2021-03-17T10:00:55.072Z</updated>
   <id>https://mikemraz.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first post</title>
+    <link href="https://mikemraz.github.io/2021/03/17/my-first-post/"/>
+    <id>https://mikemraz.github.io/2021/03/17/my-first-post/</id>
+    <published>2021-03-17T09:58:08.000Z</published>
+    <updated>2021-03-17T10:00:55.072Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今天"><a href="#今天" class="headerlink" title="今天"></a>今天</h2><p>今天是神奇的一天！</p><h2 id="明天"><a href="#明天" class="headerlink" title="明天"></a>明天</h2><p>明天也是神奇的一天！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;今天&quot;&gt;&lt;a href=&quot;#今天&quot; class=&quot;headerlink&quot; title=&quot;今天&quot;&gt;&lt;/a&gt;今天&lt;/h2&gt;&lt;p&gt;今天是神奇的一天！&lt;/p&gt;
+&lt;h2 id=&quot;明天&quot;&gt;&lt;a href=&quot;#明天&quot; class=&quot;headerlink&quot; title=&quot;明天&quot;&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="测试 人生 生活 食物" scheme="https://mikemraz.github.io/tags/%E6%B5%8B%E8%AF%95-%E4%BA%BA%E7%94%9F-%E7%94%9F%E6%B4%BB-%E9%A3%9F%E7%89%A9/"/>
+    
+  </entry>
   
   <entry>
     <title>HelloWorld</title>
